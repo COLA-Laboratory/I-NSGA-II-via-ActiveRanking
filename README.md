@@ -14,7 +14,7 @@ Run the following script files in the folder named code:
 
 ```bash
 ./rebuild.sh
-./run.sh
+./nsga2_ar.sh
 ```
 
 ## Result
