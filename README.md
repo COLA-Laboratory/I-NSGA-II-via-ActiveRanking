@@ -1,7 +1,7 @@
 # I-NSGA-II-via-ActiveRanking
 
 ## Overview
-This repository contains implementation of the algorithm framework for Interactive NSGA-II  via Active Ranking (I-NAGS-II/AR).
+This repository contains implementation of the algorithm framework for Interactive NSGA-II  via Active Ranking (I-NSGA-II/AR).
 
 ## Requirements
 - C++ version: tested in C++11
